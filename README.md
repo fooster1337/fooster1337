@@ -8,8 +8,8 @@
 # About Me
 
 My name is rey fooster, you can call me rey <br>
-I'm not very good at technology and coding, but I like it
-
+I'm not very good at technology and coding, but I like it<br>
+My Wife : Fiola :love_letter:<br>
 <i><b><font size="2">keep it simple and use linux :)</font><b><i>
 
 ![s](https://github-readme-stats.vercel.app/api?username=fooster1337&show_icons=true&theme=highcontrast)

@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust Programming Language**
 
-- 📝 I regularly write articles on [https://fooster1337.net](https://fooster1337.net)
+- 📝 I regularly write articles on [https://fooster1337.net](https://www.fooster1337.net/)
 
 - 📫 How to reach me **nfex.def@protonmail.com**
 
